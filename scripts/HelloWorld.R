@@ -41,4 +41,4 @@ plot(x=canada$year,y=canada$gdp,type = "p",
 abline(model,lty=2)
 dev.off()
 
-
+## Dave's update
